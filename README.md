@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Yash-7589/Yash-7589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yash-7589/Yash-7589** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
